@@ -1,0 +1,40 @@
+*{  margin: 0px;
+    padding: 0px;}
+    
+    #contenedorP{
+    width: 100%;
+    height: 100%;
+    background-color: aqua;
+    border: 0px;}
+
+    #C1{
+        width: 100%;
+        height: 15%;
+        background-color: #E57816;
+        position: absolute;
+    }
+    #C2{
+        width: 50%;
+        height: 50%;
+        background-color: white;
+        margin-top: 15%;
+        margin-left: 25%;
+        margin-right: 25%;
+        border-style: solid;
+        border-color: #E57816;
+        position: absolute;
+    }
+    #barran{
+        width: 2%;
+        height: 50%;
+        background-color: #E57816;
+        position: absolute;
+    }
+    #barran2{
+        width: 30%;
+        height: 4%;
+        background-color: #E57816;
+        position: absolute;
+    }
+
+
