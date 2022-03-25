@@ -1,0 +1,206 @@
+/*body{
+    background-color: #E57816;
+}*/
+/*div de inicio*/
+.inicio-secion{
+background-color:#E57816;
+padding-bottom:30px ;
+margin-bottom: 5px;
+border-radius: 15px;
+margin-left:6em ;
+    margin-right: 6em;
+}
+
+/*titulo h1*/
+.titulo{
+    color:white;
+    text-align: center;
+font-size: 50px;
+}
+/*imagen logo parte superior*/
+.imagen-logo{
+    width: 120px;
+    text-align: left;
+    border-radius:50% ;
+   float:left ;
+
+}
+/*logo de la parte de */
+.logo-inicio{
+width: 100px;
+border-radius: 50%;
+}
+/*div de la parte de los input de inicio de sesion*/
+.secion-botones{
+    background-color:#E57816;
+    text-align: center;
+    padding: 8em ;
+    border-radius: 15px;
+    margin-left:6.5em ;
+    margin-right: 6.5em;
+}
+/*titulo inicia secion*/
+.tituloh4{
+    color: white;
+    font-size: 30px;
+
+}
+
+.correo{
+    color:white;
+    font-size: 17px;
+}
+
+/*input correo*/
+.email{
+    border-color:white ;
+    padding: 2px 40px 2px 40px ;
+}
+
+/*label del input contraseña*/
+.contraseña{
+    color:white;
+    font-size: 17px;
+}
+
+/*input contraseña*/
+.password{
+    border-color:white;
+    padding: 2px 40px 2px 40px ;
+}
+ 
+/*boton inicio de sesion*/
+.boton-inicio{
+background-color:#f59038;
+border-color: #E57816;
+color: white;
+border-radius: 7px;
+padding: 8px;
+padding-left: 25px;
+padding-right: 25px;
+font-size: 15px;
+}
+
+
+/*boton registrase*/
+.boton-registro{
+    background-color: #f59038;
+border-color: #E57816;
+color: white;
+border-radius: 7px;
+padding: 8px;
+padding-left: 26px;
+padding-right: 26px;
+font-size: 16px;
+}
+
+/*este es el boton de restablecer contraseña*/
+.boton-restablecer{
+    background-color:#f59038;
+    border-color: #E57816;
+    color: white;
+    border-radius: 7px;
+    padding: 8px;
+    padding-left: 26px;
+    padding-right: 26px;
+    font-size: 16px;
+}
+
+
+
+/*PAGINA 2 PAGINA 2 PAGINA 2*/
+/*PAGINA REGISTRASE*/
+/*este es el div de la parte superior que contiene el h1 registrarse*/
+.registrarse{
+    background-color:#E57816;
+padding-bottom:30px ;
+margin-bottom: 5px;
+border-radius: 15px;
+margin-left:6em ;
+    margin-right: 6em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/*este es el H1*/
+.registrarse-h1{
+    padding-top:25px ;
+    color: white;
+}
+
+/*este es el logo del primer div*/
+.logo-registrase{
+    width: 110px;
+    text-align: left;
+    border-radius: 50%;
+   float:left 
+}
+
+/*este es la navegacion de la izquierda*/
+.navegacion-izquierda{
+box-align:left ;
+background-color:#E57816;
+padding-bottom: 37em;
+text-align: center;
+float: left;
+border-radius: 7px;
+}
+
+/*este es el boton de la navegacion inicio de sesión*/
+.boton-nav{
+    margin-right: 35px;
+    background-color: #f59038;
+    border-color: #f59038;
+    color: white;
+    border-radius: 7px;
+    padding: 8px;
+    padding-left: 26px;
+    padding-right: 26px;
+    font-size: 16px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+/*este es el ul que contiene el boton del blog*/
+.nav-blog{
+    margin-right: 35px ;
+
+}
+
+
+
+
+.div-registro{
+    display:inline-block;
+    text-align: center;
+    background-color: white;
+    padding: 1em 26em 13em 26em;
+    box-align: right;
+    margin-left: 30px;
+    border-radius: 7px;
+}
+
+.input{
+    border-color:#E57816;
+    padding: 2px 30px 2px 30px;
+}
+
+.registro{
+    font-size: 20px;
+    
+    font-weight: bold;
+}
+
+.boton-de-registro{
+    margin-right: 35px;
+    background-color: #E57816;
+    border-color: #E57816;
+    color: white;
+    border-radius: 7px;
+    padding: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 16px;
+    margin-top: 20px;
+    font-weight: bold;
+}

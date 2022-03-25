@@ -1,0 +1,93 @@
+
+
+/*este es el div que contiene el logo del sena y el nombre de la pagina*/
+.nuevo-equipos{
+    background-color:#E57816;
+    padding-bottom:18px ;
+    border-radius: 15px;
+    margin-left:3em ;
+        margin-right: 3em;
+        text-align: center;
+        margin-bottom: 20px;
+     
+    
+}
+
+/*este es el logo*/
+.logo-equipos{
+    width: 90px;
+    border-radius: 50%;
+    float: left;
+}
+
+/*este es el titulo de la parte superior*/
+.equipos-h1{
+    color: white;
+    text-align: center;
+
+}
+
+
+/*esta es la navegacion de la parte izquierda que contiene solo el inicio*/
+.navegacion-izquierda{
+    box-align:left ;
+    background-color:#E57816;
+    padding-bottom: 37em;
+    text-align: center;
+    float: left;
+    border-radius: 7px;
+    }
+
+    /*este es el boton que esta en la navegacion de la parte izquierda*/
+    .boton-nav{
+        margin-right: 35px;
+        background-color: #f59038;
+        border-color: #f59038;
+        color: white;
+        border-radius: 7px;
+        padding: 8px;
+        padding-left: 26px;
+        padding-right: 26px;
+        font-size: 16px;
+        margin-top: 20px;
+        font-weight: bold;
+    }
+
+
+    /*este es el contenedor de la partde de rogistro de nuevo equipo*/
+    .div-registro{
+        display:inline-block;
+        text-align: center;
+        background-color: white;
+        padding: 1em 22em 13em 22em;
+        box-align: right;
+        margin-left: 30px;
+        border-radius: 7px;
+    }
+    
+    /*este es el cuadro donde se digita la informacion*/
+    .input{
+        border-color:#E57816;
+        padding: 2px 80px 2px 80px;
+    }
+    
+    /*este es la letra de el boton*/
+    .registro{
+        font-size: 20px;
+        
+        font-weight: bold;
+    }
+    /*este es el boton*/
+    .boton-de-registro{
+        margin-right: 35px;
+        background-color: #E57816;
+        border-color: #E57816;
+        color: white;
+        border-radius: 7px;
+        padding: 8px;
+        padding-left: 40px;
+        padding-right: 40px;
+        font-size: 16px;
+        margin-top: 20px;
+        font-weight: bold;
+    }
